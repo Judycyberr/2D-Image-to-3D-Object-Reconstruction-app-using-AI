@@ -22,4 +22,18 @@
       2.connect your android device (make sure u enabled usb debigging on the android device)
       3.flutter run
 #### [while ruuning make sure pc and android device is connected to the same network]
+### OUTPUTS
+#### 1
+![1](https://github.com/user-attachments/assets/68d1f239-8b11-424f-9562-9bbe373b24dc)
+![2](https://github.com/user-attachments/assets/fe5a8610-00c5-4ce1-82a4-9a9f164f68a5)
+![3](https://github.com/user-attachments/assets/23f776b5-354a-4b6b-b73f-d68203b97f2e)
+![4](https://github.com/user-attachments/assets/3bbc5250-bf86-4802-97be-d6f1b5843363)
+#### 2
+![5](https://github.com/user-attachments/assets/3c431d86-75ff-471e-ad10-5b0f4490513d)
+![6](https://github.com/user-attachments/assets/077046ee-fc13-4d9a-af98-69225d186686)
+![7](https://github.com/user-attachments/assets/37831878-dd8b-4391-adf2-7cea4c6bac96)
+![8](https://github.com/user-attachments/assets/723c3f90-2766-4dc0-8650-fb43fbd8c0a2)
+![9](https://github.com/user-attachments/assets/28308b46-46b4-4d01-ba95-ee73b9e2a600)
+
+
 

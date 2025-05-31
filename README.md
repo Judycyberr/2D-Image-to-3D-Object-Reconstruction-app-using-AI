@@ -21,5 +21,5 @@
       1.flutter pub get
       2.connect your android device (make sure u enabled usb debigging on the android device)
       3.flutter run
-
-   ***********************************************************************************************
+## while ruuning make sure pc and android device is connected to the same network
+   **************************************over*********************************************************

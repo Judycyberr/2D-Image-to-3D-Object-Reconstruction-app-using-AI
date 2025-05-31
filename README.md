@@ -24,6 +24,10 @@
 #### [while ruuning make sure pc and android device is connected to the same network]
 ### OUTPUTS
 #### 1
+<p align="center">
+  <img src="https://github.com/your-username/your-repo/blob/main/images/screenshot1.png?raw=true" alt="Screenshot" width="200" />
+</p>
+
 ![1](https://github.com/user-attachments/assets/68d1f239-8b11-424f-9562-9bbe373b24dc)
 ![2](https://github.com/user-attachments/assets/fe5a8610-00c5-4ce1-82a4-9a9f164f68a5)
 ![3](https://github.com/user-attachments/assets/23f776b5-354a-4b6b-b73f-d68203b97f2e)

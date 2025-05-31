@@ -25,7 +25,7 @@
 ### OUTPUTS
 #### 1
 <p align="center">
-  <img src="https://github.com/your-username/your-repo/blob/main/images/screenshot1.png?raw=true" alt="Screenshot" width="200" />
+  <img src="[https://github.com/user-attachments/assets/68d1f239-8b11-424f-9562-9bbe373b24dc" alt="Screenshot" width="200" />
 </p>
 
 ![1](https://github.com/user-attachments/assets/68d1f239-8b11-424f-9562-9bbe373b24dc)

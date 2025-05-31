@@ -1,5 +1,5 @@
 ## 2D-Image-to-3D-Object-Reconstruction-app-using-AI
-# Single 2d image is converted to 3d object using open source AI (TripoSR)
+##### Single 2d image is converted to 3d object using open source AI (TripoSR)
 
 !!!!!!follow the following steps to create the app:-
 

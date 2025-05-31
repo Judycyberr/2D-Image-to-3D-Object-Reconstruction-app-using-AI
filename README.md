@@ -7,7 +7,7 @@ Single 2d image is converted to 3d object using open source AI (TripoSR)
 2) create virtual environment on the same directory by using
      1.cd TripoSR
      2.python -m venv venv
-     3.venv\Scripts\activate.bat
+     3.venv\Scripts\activate.bat 
      4.pip install torch torchvision torchaudio
      5.pip install --upgrade setuptools
      6.pip install -r requirements.txt

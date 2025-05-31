@@ -1,7 +1,9 @@
 # 2D-Image-to-3D-Object-Reconstruction-app-using-AI
 Single 2d image is converted to 3d object using open source AI (TripoSR)
-!!!!follow the following steps to create the app :-
-1) git clone https://github.com/Judycyberr/2D-Image-to-3D-Object-Reconstruction-app-using-AI
+
+!!!!!!follow the following steps to create the app:-
+
+# git clone https://github.com/Judycyberr/2D-Image-to-3D-Object-Reconstruction-app-using-AI
       1.cd flask
       2.git clone https://github.com/VAST-AI-Research/TripoSR.git (run this command inside flask folder)
 2) create virtual environment on the same directory by using

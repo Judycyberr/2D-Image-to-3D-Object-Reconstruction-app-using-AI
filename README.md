@@ -19,7 +19,7 @@
      1.replace the main.drat file inside the lib folder with our main.dart file
 ### run the following inside the flutter application
       1.flutter pub get
-      2.connect your android device (make sure u enabled usb debugging on the android device)
+      2.connect your android device (make sure usb debugging is enabled on the android device)
       3.flutter run
 #### [while ruuning make sure pc and android device is connected to the same network]
 ### OUTPUTS
